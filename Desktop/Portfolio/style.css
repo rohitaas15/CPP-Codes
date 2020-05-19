@@ -1,0 +1,96 @@
+
+Skip to content
+
+    Why GitHub?
+                          
+
+
+                    
+Team
+Enterprise
+Explore
+                      
+
+                    
+Marketplace
+Pricing
+                       
+
+
+                        
+
+Sign in
+Sign up
+f20180751 /
+f20180751.github.io
+
+1
+0
+
+    0
+
+Code
+Issues 0
+Pull requests 0
+Actions
+Projects 1
+Security 0
+
+    Insights
+
+Join GitHub today
+
+GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+f20180751.github.io/frontpage.css
+@f20180751 f20180751 Add files via upload 1a0f849 yesterday
+35 lines (33 sloc) 658 Bytes
+.content-wrapper {
+  width: 80%;
+  margin: 4% 10% 5% 10%;
+}
+.container-wrapper img {
+  width: 100%;
+}
+
+.text-wrapper {
+  width: 100%;
+  position: absolute;
+  margin-top: -40%;
+}
+.text-wrapper h1 {
+  text-align: center;
+  position: absolute;
+  color: black;
+  font-size: 10vw;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+* {
+  color: #555555;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin: 0;
+}
+#borderimg1 {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 50 round;
+}
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
