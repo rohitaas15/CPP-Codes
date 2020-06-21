@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "amarjeet",
+  "author": "Rohitaas",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
